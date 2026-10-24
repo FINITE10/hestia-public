@@ -1,4 +1,4 @@
-# hestia-public# HesTia
+# HesTia
 ### Evidence. Accountability. Sufficiency.
 
 HesTia is a developing framework for evidence-driven accountability, critical thinking, and better decisions.
