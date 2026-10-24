@@ -1,4 +1,4 @@
-![HesTia](Ethereal%20Cosmic%20Shieldmaiden.png)
+# HesTia![HesTia](Ethereal%20Cosmic%20Shieldmaiden.png)
 ### Evidence. Accountability. Sufficiency.
 
 HesTia is a developing framework for evidence-driven accountability, critical thinking, and better decisions.
